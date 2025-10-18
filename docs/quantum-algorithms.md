@@ -220,8 +220,4 @@ In real quantum hardware:
 - Fault-tolerant implementation required
 
 ## References
-
-1. Grover, L. K. (1996). "A fast quantum mechanical algorithm for database search"
-2. Nielsen, M. A., & Chuang, I. L. (2010). "Quantum computation and quantum information"
-3. Qiskit Textbook: "Grover's Algorithm"
-4. Preskill, J. (2018). "Quantum Computing in the NISQ era and beyond"
+1. Nielsen, M. A., & Chuang, I. L. (2010). "Quantum computation and quantum information"
