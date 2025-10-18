@@ -141,4 +141,4 @@ For questions or issues, please open an issue in the repository or contact the m
 
 ---
 
-**Note**: This project is for educational purposes and demonstrates quantum computing concepts. For production quantum applications, consider using actual quantum hardware or more sophisticated simulators.
+**Note**: This project is for educational purposes and demonstrates quantum computing concepts. For production quantum applications, consider using actual quantum hardware or more sophisticated simulators(soon in humanity👀)
